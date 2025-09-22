@@ -20,7 +20,7 @@ With PowerPhotos, you can easily split large libraries, copy albums between libr
 
 Whether you're a photographer with multiple projects or a user with years of photos spread across different libraries, PowerPhotos provides the tools you need to keep everything tidy and accessible.
 
-![PowerPhotos Screenshot](https://static.macupdate.com/screenshots/301398/m/powerphotos-screenshot.png)
+![PowerPhotos Screenshot](https://cdn.mgig.fr/2022/07/mg-2a93a94b-w3024.jpg)
 
 ---
 
